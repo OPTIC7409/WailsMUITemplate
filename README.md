@@ -7,6 +7,7 @@ This is a simple template to allow you to use GO + MUI React framwork in a deskt
 
 ## Installation 
 run `cd project`
+
 run `npm i`
 
 ## Live Development
