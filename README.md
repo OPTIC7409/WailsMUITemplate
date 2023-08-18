@@ -2,10 +2,12 @@
 
 ## About
 
-This is the official Wails React template.
+This is not an official Wails Template
+This is a simple template to allow you to use GO + MUI React framwork in a desktop app.
 
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
+## Installation 
+run `cd project`
+run `npm i`
 
 ## Live Development
 
